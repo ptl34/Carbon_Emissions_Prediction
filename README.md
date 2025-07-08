@@ -11,7 +11,7 @@
 #Week 3
 ->In Week 3 created model that predict CO2 emission by following steps mention below
 
-*libraries and data import, dealing with randomness in the algorithms
+*libraries and data import, dealing with randomness in the algorithms \n
 *Data overview
 *Used feature/column abbreviations
 *Hypothesis to be tested
