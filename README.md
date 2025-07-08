@@ -11,8 +11,10 @@
 #Week 3
 ->In Week 3 created model that predict CO2 emission by following steps mention below
 
-*libraries and data import, dealing with randomness in the algorithms \n
+*libraries and data import, dealing with randomness in the algorithms 
+
 *Data overview
+
 *Used feature/column abbreviations
 *Hypothesis to be tested
 *Selection of dependent and independent variables
@@ -21,3 +23,5 @@
 *Hyperparameter tuning of a random forest model with cross-validation
 *Train and evaluate the model with the best hyperparameters on the training data with cross-validation
 *Validate the model on the test subset (previously unseen data)
+
+Link to the Model: https://drive.google.com/file/d/1nFDM-8gIFT_ylr07M_tW4_a5a4bdJ6Wt/view?usp=sharing
