@@ -11,15 +11,27 @@
 #Week 3
 ->In Week 3 created model that predict CO2 emission by following steps mention below
 
-*libraries and data import, dealing with randomness in the algorithms 
-*Data overview
-*Used feature/column abbreviations
-*Hypothesis to be tested
-*Selection of dependent and independent variables
-*Dataset splitting into training and testing subsets
-*Feature selection with recursive feature elimination and cross-validation
-*Hyperparameter tuning of a random forest model with cross-validation
-*Train and evaluate the model with the best hyperparameters on the training data with cross-validation
-*Validate the model on the test subset (previously unseen data)
+Project Workflow
+Imported libraries & set random seed
+
+Explored and cleaned the dataset
+
+Defined feature abbreviations
+
+Selected target and input variables
+
+Split data into training and testing sets
+
+Applied RFECV for feature selection
+
+Tuned model with RandomizedSearchCV
+
+Trained Random Forest model
+
+Evaluated using cross-validation
+
+Validated on test data
+
+
 
 Link to the Model: https://drive.google.com/file/d/1nFDM-8gIFT_ylr07M_tW4_a5a4bdJ6Wt/view?usp=sharing
